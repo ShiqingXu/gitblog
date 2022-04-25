@@ -1,2 +1,2 @@
 # gitblog
-my personal blog
+
