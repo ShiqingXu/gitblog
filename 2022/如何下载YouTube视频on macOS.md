@@ -11,7 +11,7 @@ tags: [折腾]
 
 #### 安装homebrew
 
-访问 [homebrew官网]([The Missing Package Manager for macOS (or Linux) — Homebrew](https://brew.sh/)),按照网页上的指示安装homebrew。
+访问[homebrew官网](https://brew.sh/) 按照网页上的指示安装homebrew。
 
 ```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
@@ -19,7 +19,7 @@ tags: [折腾]
 
 #### 安装ffmpeg
 
-YouTube上的音视频是分离的文件，故使用yt-dlp下载下来的文件需要依赖ffmpeg进行合成。在 [homebrew]([The Missing Package Manager for macOS (or Linux) — Homebrew](https://brew.sh/))网页的搜索框输入ffmpeg，可获得ffmpeg的下载安装命令，复制到终端运行。
+YouTube上的音视频是分离的文件，故使用yt-dlp下载下来的文件需要依赖ffmpeg进行合成。在 [homebrew](https://brew.sh/) 网页的搜索框输入ffmpeg，可获得ffmpeg的下载安装命令，复制到终端运行。
 
 ![test](如何下载YouTube视频on macOS.assets/image-20220430221447946-1328112.png)
 
