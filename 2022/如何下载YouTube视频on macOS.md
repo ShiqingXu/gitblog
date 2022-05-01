@@ -21,7 +21,7 @@ tags: [折腾]
 
 YouTube上的音视频是分离的文件，故使用yt-dlp下载下来的文件需要依赖ffmpeg进行合成。在 [homebrew](https://brew.sh/) 网页的搜索框输入ffmpeg，可获得ffmpeg的下载安装命令，复制到终端运行。
 
-![test](如何下载YouTube视频on macOS.assets/image-20220430221447946-1328112.png)
+![test](如何下载YouTube视频on_macOS.assets/image-20220430221447946-1328112.png)
 
 #### 安装yt-dlp
 
