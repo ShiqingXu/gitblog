@@ -25,10 +25,11 @@ YouTube上的音视频是分离的文件，故使用yt-dlp下载下来的文件�
 
 #### 安装yt-dlp
 
-访问[yt-dlp的GitHub页面]([yt-dlp/yt-dlp: A youtube-dl fork with additional features and fixes (github.com)](https://github.com/yt-dlp/yt-dlp))以获得安装命令
+访问 [ yt-dlp的 GitHub 页面](https://github.com/yt-dlp/yt-dlp) 以获得安装命令
 
 ```
 brew install yt-dlp/taps/yt-dlp
 ```
 
 复制到终端运行，等待安装完成即可。
+
