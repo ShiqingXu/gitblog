@@ -2,6 +2,8 @@
 
 ## 2022年
 
+[A form of action](https://github.com/ShiqingXu/gitblog/blob/main/2022/a_form_of_action.md)
+
 [使用IINA播放器播放网页视频](https://github.com/ShiqingXu/gitblog/blob/main/2022/%E4%BD%BF%E7%94%A8IINA%E6%92%AD%E6%94%BE%E5%99%A8%E6%92%AD%E6%94%BE%E7%BD%91%E9%A1%B5%E8%A7%86%E9%A2%91.md)
 
 [如何下载YouTube视频 on macOS](https://github.com/ShiqingXu/gitblog/blob/main/2022/%E5%A6%82%E4%BD%95%E4%B8%8B%E8%BD%BDYouTube%E8%A7%86%E9%A2%91on_macOS.md)
