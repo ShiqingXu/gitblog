@@ -1,6 +1,6 @@
 ---
 title: A form of action
-date: 2022-06-217
+date: 2022-06-17
 tags: [随想]
 
 ---
