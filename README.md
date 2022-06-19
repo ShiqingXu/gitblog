@@ -2,6 +2,8 @@
 
 ## 2022年
 
+[漫长的告别](https://github.com/ShiqingXu/gitblog/blob/main/2022/007.%E6%BC%AB%E9%95%BF%E7%9A%84%E5%91%8A%E5%88%AB.md)
+
 [一个人的村庄](https://github.com/ShiqingXu/gitblog/blob/main/2022/005.%E4%B8%80%E4%B8%AA%E4%BA%BA%E7%9A%84%E6%9D%91%E5%BA%84.md)
 
 [A form of action](https://github.com/ShiqingXu/gitblog/blob/main/2022/004.a_form_of_action.md)
