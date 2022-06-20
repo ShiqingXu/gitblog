@@ -2,6 +2,8 @@
 
 ## 2022年
 
+[父母的成长](https://github.com/ShiqingXu/gitblog/blob/main/2022/008.%E7%88%B6%E6%AF%8D%E7%9A%84%E6%88%90%E9%95%BF.md)
+
 [漫长的告别](https://github.com/ShiqingXu/gitblog/blob/main/2022/007.%E6%BC%AB%E9%95%BF%E7%9A%84%E5%91%8A%E5%88%AB.md)
 
 [一个人的村庄](https://github.com/ShiqingXu/gitblog/blob/main/2022/005.%E4%B8%80%E4%B8%AA%E4%BA%BA%E7%9A%84%E6%9D%91%E5%BA%84.md)
@@ -13,7 +15,3 @@
 [如何下载YouTube视频 on macOS](https://github.com/ShiqingXu/gitblog/blob/main/2022/002.%E5%A6%82%E4%BD%95%E4%B8%8B%E8%BD%BDYouTube%E8%A7%86%E9%A2%91on_macOS.md)
 
 [近期的一次与时间赛跑](https://github.com/ShiqingXu/gitblog/blob/main/2022/001.%E8%BF%91%E6%9C%9F%E7%9A%84%E4%B8%80%E6%AC%A1%E4%B8%8E%E6%97%B6%E9%97%B4%E8%B5%9B%E8%B7%91.md)
-
-## 原github pages存档
-
-[hexo bcakup](https://github.com/ShiqingXu/gitblog/tree/main/hexo%20backup)
