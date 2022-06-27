@@ -2,6 +2,8 @@
 
 ## 2022年
 
+[所谓十字路口](https://github.com/ShiqingXu/gitblog/blob/main/2022/011.the_cross_road.md)
+
 [醉村公路](https://github.com/ShiqingXu/gitblog/blob/main/2022/010.%E9%86%89%E6%9D%91%E5%85%AC%E8%B7%AF.md)
 
 [2022春夏之交北京疫情核酸记录](https://github.com/ShiqingXu/gitblog/blob/main/2022/009.2022%E6%98%A5%E5%A4%8F%E4%B9%8B%E4%BA%A4%E5%8C%97%E4%BA%AC%E7%96%AB%E6%83%85%E6%A0%B8%E9%85%B8%E8%AE%B0%E5%BD%95.md)
