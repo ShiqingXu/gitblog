@@ -2,6 +2,8 @@
 
 ## 2022年
 
+[The Forty-four Sunsets](https://github.com/ShiqingXu/gitblog/blob/main/2022/012.the_forty-four_sunsets.md)
+
 [所谓十字路口](https://github.com/ShiqingXu/gitblog/blob/main/2022/011.the_cross_road.md)
 
 [醉村公路](https://github.com/ShiqingXu/gitblog/blob/main/2022/010.%E9%86%89%E6%9D%91%E5%85%AC%E8%B7%AF.md)
@@ -14,7 +16,7 @@
 
 [一个人的村庄](https://github.com/ShiqingXu/gitblog/blob/main/2022/005.%E4%B8%80%E4%B8%AA%E4%BA%BA%E7%9A%84%E6%9D%91%E5%BA%84.md)
 
-[A form of action](https://github.com/ShiqingXu/gitblog/blob/main/2022/004.a_form_of_action.md)
+[A Form of Action](https://github.com/ShiqingXu/gitblog/blob/main/2022/004.a_form_of_action.md)
 
 [使用IINA播放器播放网页视频](https://github.com/ShiqingXu/gitblog/blob/main/2022/003.%E4%BD%BF%E7%94%A8IINA%E6%92%AD%E6%94%BE%E5%99%A8%E6%92%AD%E6%94%BE%E7%BD%91%E9%A1%B5%E8%A7%86%E9%A2%91.md)
 
