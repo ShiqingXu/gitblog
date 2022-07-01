@@ -2,6 +2,8 @@
 
 ## 2022年
 
+[Goodbye，Jade](https://github.com/ShiqingXu/gitblog/blob/main/2022/013.goodbye_Jade.md)
+
 [The First Step](https://github.com/ShiqingXu/gitblog/blob/main/2022/012.The_First_Step.md)
 
 [The Forty-four Sunsets](https://github.com/ShiqingXu/gitblog/blob/main/2022/011.the_forty-four_sunsets.md)
