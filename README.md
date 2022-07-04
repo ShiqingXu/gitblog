@@ -2,6 +2,8 @@
 
 ## 2022年
 
+[A Year of Sobriety ](https://github.com/ShiqingXu/gitblog/blob/main/2022/014.A_year_of_sobriety.md)
+
 [Goodbye，Jade](https://github.com/ShiqingXu/gitblog/blob/main/2022/013.goodbye_Jade.md)
 
 [The First Step](https://github.com/ShiqingXu/gitblog/blob/main/2022/012.The_First_Step.md)
