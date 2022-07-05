@@ -2,6 +2,8 @@
 
 ## 2022年
 
+[給親戚看見我一個人食吉野家](https://github.com/ShiqingXu/gitblog/blob/main/2022/015.%E7%B5%A6%E8%A6%AA%E6%88%9A%E7%9C%8B%E8%A6%8B%E6%88%91%E4%B8%80%E5%80%8B%E4%BA%BA%E9%A3%9F%E5%90%89%E9%87%8E%E5%AE%B6.md)
+
 [A Year of Sobriety ](https://github.com/ShiqingXu/gitblog/blob/main/2022/014.A_year_of_sobriety.md)
 
 [Goodbye，Jade](https://github.com/ShiqingXu/gitblog/blob/main/2022/013.goodbye_Jade.md)
